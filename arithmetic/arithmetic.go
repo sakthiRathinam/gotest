@@ -1,6 +1,5 @@
 package arithmetic
 
-func CubeVolume(){
-	s := 3
-	
+func CubeVolume(n int) int {
+	return n * n * n
 }

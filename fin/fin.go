@@ -2,6 +2,6 @@ package fin
 
 import "fmt"
 
-func print_fin() {
+func PrintFin() {
 	fmt.Println("print the fin")
 }
