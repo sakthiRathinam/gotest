@@ -1,5 +1,5 @@
 package arithmetic
 
 func Cube(n int) int {
-	reutrn n * n * n
+	reutrn n * n
 }
