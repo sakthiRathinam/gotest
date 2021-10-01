@@ -1,6 +1,6 @@
 package arithmetic
 
-func Cube(n int) float64{
+func CubeVolume(n int) int{
 	return n * n
 	
 }
